@@ -1,1 +1,2 @@
-GitKraken_Chinese_translate
+# GitKraken_Chinese_translate
+翻译正在施工中
