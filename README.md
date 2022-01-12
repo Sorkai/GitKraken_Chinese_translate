@@ -1,0 +1,1 @@
+GitKraken_Chinese_translate
