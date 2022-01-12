@@ -240,7 +240,7 @@
       "InitialCliGuiChoice-GUI-Message": "清晰地可视化关于存储库最有用的信息，可以方便地访问提交图、正在进行的工作、拉请求、问题、团队等等。",
       "Role-Admin": "管理",
       "Role-Billing": "账单联系",
-      "Role-Owner": "老板",
+      "Role-Owner": "拥有者",
       "SelfHostedConfiguration-Title": "配置GitKraken自托管",
       "SelfHostedConfiguration-EnterHostname": "请粘贴在GitKraken下载页面上提供的URL：",
       "SelfHostedConfiguration-CouldNotConnect": "无法连接到服务器。",
