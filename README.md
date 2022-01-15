@@ -1,7 +1,27 @@
 # GitKraken_Chinese_translate
 
-翻译正在施工中
-现在应该可以凑活用，比现存的翻译要优秀
+**翻译正在施工中**
+但现在应该可以用，比现存的翻译要合理
+
+本翻译借鉴了[k-skye/gitkraken-chinese: GitKraken的中文汉化补丁 (github.com)](https://github.com/k-skye/gitkraken-chinese)项目和[rogeraabbccdd/GitKraken-zh-tw (github.com)](https://github.com/rogeraabbccdd/GitKraken-zh-tw)项目，感谢两位作者
+
+翻译中用到了k-skye的对比工具和老版本翻译，借鉴了rogeraabbccdd的部分繁体中文翻译
+
+**翻译中将大量的机翻和错误翻译修正，补充了大部分新版本的未翻译部分，搞得这两天有点脖子疼了🤣**
+
+***
+
+### 项目地址：
+
+我的个人主页：[GitKraken中文翻译/汉化 (sorkai.com)](https://www.sorkai.com/archives/422/)
+
+GitHub：[Sorkai/GitKraken_Chinese_translate: GitKraken中文翻译/汉化 (github.com)](https://github.com/Sorkai/GitKraken_Chinese_translate)
+
+Gitee：[GitKraken_Chinese_translate: GitKraken中文翻译/汉化 (gitee.com)](https://gitee.com/Sorkai/GitKraken_Chinese_translate)
+
+***
+
+写了个简单的批处理方便安装翻译↓
 
 ## 翻译自动安装器
 
