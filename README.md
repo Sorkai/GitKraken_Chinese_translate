@@ -9,7 +9,7 @@
 
 1. 在项目中选择你需要的版本并下载
    ![](https://img.kai233.top/picgo/202201152310631.png)
-2. 下载目录下的 **install.bat** 文件，并运行
+2. 点击链接：[../../releases/Installer_1.0](../../releases/Installer_1.0) 下载 **install.zip** 文件后解压出来，并运行`install.bat`
 3. 将下载到的翻译文件拖入批处理窗口，然后按下回车键
    ![](https://img.kai233.top/picgo/202201152313524.png)
 4. 确认拖入文件无误后输入**你的GitKraken的版本号**且一定不能有误，按下回车
