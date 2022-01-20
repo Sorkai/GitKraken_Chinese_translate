@@ -3839,6 +3839,6 @@
       "Theme-ApplicationFailedTitle": "Error in {0} theme",
       "Theme-ApplicationFailedMessage": "Theme system failed to apply {0}. See the application log for details",
       "Theme-RecursesInfinitelyAtKey": "Theme recurses infinitely at key {0}",
-      "Theme-EncounteredErrorEvaluatingValue": "Theme encountered error evaluating {0}: {1}"
+      "Theme-EncounteredErrorEvaluatingValue": "主题执行{0}时发生错误：{1}"
     }
   }
